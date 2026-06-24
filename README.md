@@ -12,11 +12,11 @@ The study investigates how three AI thinking partner styles — **Steelman**, **
 ## Repository Structure
 
 ```
-├── experiment/
-│   └── [experiment scripts]       # Pipeline to run the thinking partner sessions
-│
-├── analysis/
-│   └── analysis.py                # Quantitative and qualitative analysis script
+├── main/
+|   └── experiment/
+│       └── [experiment scripts]       # Pipeline to run the thinking partner sessions
+|    └── analysis/
+│       └── analysis.py                # Quantitative and qualitative analysis script
 │
 └── results/
     ├── figures/                   # All generated figures (boxplots, pre/post chart, etc.)
