@@ -1,0 +1,4 @@
+Outcome,"F(2,N-3)",F-stat,p-value,eta-sq,Sig
+Opinion Change (SQ1),"F(2, 152)",35.4593,0.0,0.3181,***
+Epistemic Trust (SQ2),"F(2, 152)",2.0222,0.1359,0.0259,ns
+Epistemic Autonomy (SQ3),"F(2, 152)",2.7842,0.0649,0.0353,ns

@@ -1,0 +1,10 @@
+Outcome,Condition,N,Mean,SD,Median,Min,Max
+Opinion Change (SQ1),Steelman,52,-0.423,1.473,0.0,-4.0,2.0
+Opinion Change (SQ1),Socratic,51,1.059,0.785,1.0,-1.0,3.0
+Opinion Change (SQ1),Neutral,52,1.365,1.103,1.0,-3.0,4.0
+Epistemic Trust (SQ2),Steelman,52,4.141,0.25,4.0,3.167,4.667
+Epistemic Trust (SQ2),Socratic,51,4.098,0.18,4.0,3.667,4.333
+Epistemic Trust (SQ2),Neutral,52,4.183,0.204,4.167,4.0,4.667
+Epistemic Autonomy (SQ3),Steelman,52,4.26,0.311,4.429,3.524,4.762
+Epistemic Autonomy (SQ3),Socratic,51,4.201,0.3,4.19,3.524,4.762
+Epistemic Autonomy (SQ3),Neutral,52,4.346,0.332,4.429,3.524,4.762

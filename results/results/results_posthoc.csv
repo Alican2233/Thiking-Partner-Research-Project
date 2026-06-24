@@ -1,0 +1,10 @@
+Outcome,Group A,Group B,Mean diff (A-B),q-stat,p-adj,Sig
+Opinion Change (SQ1),Steelman,Socratic,-1.4819,9.1889,0.0,***
+Opinion Change (SQ1),Steelman,Neutral,-1.7885,11.144,0.0,***
+Opinion Change (SQ1),Socratic,Neutral,-0.3066,1.9009,0.3731,ns
+Epistemic Trust (SQ2),Steelman,Socratic,0.043,1.4442,0.5646,ns
+Epistemic Trust (SQ2),Steelman,Neutral,-0.0417,1.4067,0.5813,ns
+Epistemic Trust (SQ2),Socratic,Neutral,-0.0847,2.8441,0.113,ns
+Epistemic Autonomy (SQ3),Steelman,Socratic,0.0593,1.3531,0.6053,ns
+Epistemic Autonomy (SQ3),Steelman,Neutral,-0.0861,1.9729,0.346,ns
+Epistemic Autonomy (SQ3),Socratic,Neutral,-0.1454,3.3164,0.0527,ns

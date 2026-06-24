@@ -1,0 +1,13 @@
+Outcome,Test,Condition,Statistic,p-value,Assumption met
+Opinion Change (SQ1),Shapiro-Wilk,Steelman,0.9416,0.013,NO
+Opinion Change (SQ1),Shapiro-Wilk,Socratic,0.8553,0.0,NO
+Opinion Change (SQ1),Shapiro-Wilk,Neutral,0.792,0.0,NO
+Opinion Change (SQ1),Levene's,All,7.9848,0.0005,NO
+Epistemic Trust (SQ2),Shapiro-Wilk,Steelman,0.8109,0.0,NO
+Epistemic Trust (SQ2),Shapiro-Wilk,Socratic,0.7064,0.0,NO
+Epistemic Trust (SQ2),Shapiro-Wilk,Neutral,0.7886,0.0,NO
+Epistemic Trust (SQ2),Levene's,All,2.8436,0.0613,YES
+Epistemic Autonomy (SQ3),Shapiro-Wilk,Steelman,0.9104,0.0008,NO
+Epistemic Autonomy (SQ3),Shapiro-Wilk,Socratic,0.887,0.0002,NO
+Epistemic Autonomy (SQ3),Shapiro-Wilk,Neutral,0.874,0.0001,NO
+Epistemic Autonomy (SQ3),Levene's,All,0.1437,0.8662,YES
