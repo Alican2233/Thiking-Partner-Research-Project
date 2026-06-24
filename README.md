@@ -97,7 +97,7 @@ The script will generate the following outputs in the `results/` directory:
 | Component | Model |
 |---|---|
 | Thinking partners | LLaMA 3.1:8b (via Ollama API, localhost:11434) |
-| Simulated personas | LLaMA 3.1 with 8.03B parameters |
+| Simulated personas | LLaMA 3.1:8b |
 
 ---
 
